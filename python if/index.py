@@ -117,6 +117,27 @@
 
 
 
-for i in range(3):
-    for j in range(2):
-        print(i,j)
+# for i in range(3):
+#     for j in range(2):
+#         print(i,j)
+
+
+# int_str = "7,8,35"
+# number = int_str.split()
+# first = ord(number[0][0])-ord('0') # so the value is 7
+# second  = ord(number[-1][-1])-ord("0") # so the value is 5
+# result  = first + second
+# print(result)
+
+
+
+# int_str = ("12345")
+# first = int(int_str[0][0])+int(int_str[-1][-1])
+# print(first)
+
+
+import math
+
+a =9.75
+
+print(round(a))
